@@ -6,6 +6,12 @@ One day workshop on data analysis organized by IEEE Student Branch of Sathyabama
 
 ## Link to dataset for quiz
 * https://www.kaggle.com/aitzaz/stack-overflow-developer-survey-2020
+### Questions
+1. How many rows and columns are there in the dataset?
+2. What is the datatype of different values in the dataset?
+3. Identify the top 2 countries with the highest number of respondents.
+4. What is the ratio of gender?
+5. What insights did you gain from the dataset?
 
 ## Link to colab file
 https://colab.research.google.com/drive/1OKz4nu_LLDgTatN0ecVzUwAB4GssjXv2?usp=sharing
