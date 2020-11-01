@@ -35,6 +35,9 @@ https://colab.research.google.com/drive/1OKz4nu_LLDgTatN0ecVzUwAB4GssjXv2?usp=sh
 * [Pandas Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS) - Corey Schafer (Complete playlist on Youtube)
 * [Pandas Tutorial - Data Analysis in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) - Codebasics (Complete playlist on Youtube)
 * [Pandas Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
+* http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+* https://nbviewer.jupyter.org/github/fonnesbeck/Bios8366/blob/master/notebooks/Section2_1-Introduction-to-Pandas.ipynb  - Jupyter notebook
+
 
 ## Matplotlib resources
 * [Matplotlib tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) - Corey Schafer (Youtube)
