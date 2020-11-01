@@ -36,5 +36,22 @@ https://colab.research.google.com/drive/1OKz4nu_LLDgTatN0ecVzUwAB4GssjXv2?usp=sh
 * [Pandas Tutorial - Data Analysis in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) - Codebasics (Complete playlist on Youtube)
 * [Pandas Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/pandas/index.php)
 
+## Matplotlib resources
+* [Matplotlib tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_) - Corey Schafer (Youtube)
+* [Matplotlib playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl) - Codebasics (Youtube)
+* [Matplotlib tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) - Sentdex (Youtube)
+
+## Data Analysis
+https://www.youtube.com/playlist?list=PLWKjhJtqVAblvI1i46ScbKV2jH1gdL7VQ
+
+**Along with these tutorials videos you may also follow geeksforgeeks, analytics vidhya, Analytics India Magazine, Medium blogs, tutorials point, kaggle basic courses, etc.**
+Just know what and how to google properly, you will get all the best things in google itself.
+
 ## More resources for Exploratory Data Analysis
 * https://jovian.ai/aakashns/python-eda-stackoverflow-survey
+
+# We all were a beginner at some point, but with constant efforts we can master anything!
+
+### For any doubts contact me at:
+*email id:* **antaripasaha2000@gmail.com**
+*Linkedin id:* **https://www.linkedin.com/in/antaripa-saha/**
