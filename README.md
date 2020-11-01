@@ -21,5 +21,9 @@ https://colab.research.google.com/drive/1OKz4nu_LLDgTatN0ecVzUwAB4GssjXv2?usp=sh
 * https://www.analyticsvidhya.com/blog/2020/04/the-ultimate-numpy-tutorial-for-data-science-beginners/
 * https://www.machinelearningplus.com/python/101-numpy-exercises-python/
 
+## Pandas resources
+* https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python?utm_source=linkedin&utm_medium=AV|link|freecourse|free_courses|44089|0.75
+* 
+
 ## More resources for Exploratory Data Analysis
 * https://jovian.ai/aakashns/python-eda-stackoverflow-survey
